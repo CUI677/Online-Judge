@@ -1,0 +1,7 @@
+*.o
+*.d
+
+compile_serve/compile_server
+oj_serve/oj_server
+
+.vscode/

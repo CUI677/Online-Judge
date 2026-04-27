@@ -1,0 +1,7 @@
+题目名称: Hello Name
+
+请补全 Solution::HelloName(const string& name)，返回字符串 "hello " + name。
+
+判题方式:
+系统会把你填写的代码拼接到 header.cpp 和 tail.cpp 中间。
+tail.cpp 内置了若干测试用例，并输出每组测试是否通过。

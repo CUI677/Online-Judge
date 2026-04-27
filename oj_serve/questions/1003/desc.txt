@@ -1,0 +1,11 @@
+题目名称: 合并两个有序链表
+
+请补全 Solution::mergeTwoLists(ListNode* list1, ListNode* list2)，将两个升序链表合并为一个新的升序链表并返回头结点。
+
+要求:
+1. 只能补全函数体中的核心逻辑
+2. ListNode 定义已由系统提供
+
+判题方式:
+系统会把你填写的代码拼接到 header.cpp 和 tail.cpp 中间。
+tail.cpp 内置了若干测试用例，并输出每组测试是否通过。

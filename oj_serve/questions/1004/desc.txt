@@ -1,0 +1,11 @@
+题目名称: 环形链表
+
+请补全 Solution::hasCycle(ListNode* head)，判断链表中是否存在环。
+
+要求:
+1. 只能补全函数体中的核心逻辑
+2. ListNode 定义已由系统提供
+
+判题方式:
+系统会把你填写的代码拼接到 header.cpp 和 tail.cpp 中间。
+tail.cpp 内置了若干测试用例，并输出每组测试是否通过。
